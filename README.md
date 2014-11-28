@@ -47,6 +47,9 @@ You may want to save objects as cache. Bootroid enables you to save and get cach
 ## EditText Validate
 EditText validate code sometimes becomes complicated. Bootroid provides common validate framework.
 
+## Google Cloud Messaging(GCM)
+You can implement push notification app with a few code.
+
 ## Other utilities
 Hide keyboard, launch browser, share, local notifications and so on.
 
