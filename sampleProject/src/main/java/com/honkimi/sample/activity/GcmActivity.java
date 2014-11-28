@@ -2,7 +2,7 @@ package com.honkimi.sample.activity;
 
 import android.os.Bundle;
 
-import com.honkimi.mylibrary.gcm.GcmUtil;
+import com.honkimi.bootroid.gcm.GcmUtil;
 import com.honkimi.sample.R;
 
 /**

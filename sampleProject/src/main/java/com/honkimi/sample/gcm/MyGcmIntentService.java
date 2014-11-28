@@ -1,7 +1,7 @@
 package com.honkimi.sample.gcm;
 
-import com.honkimi.mylibrary.gcm.GcmIntentService;
-import com.honkimi.mylibrary.utils.LogUtil;
+import com.honkimi.bootroid.gcm.GcmIntentService;
+import com.honkimi.bootroid.utils.LogUtil;
 
 /**
  * Created by honkimi on 14/11/28.

@@ -1,6 +1,6 @@
 package com.honkimi.sample.gcm;
 
-import com.honkimi.mylibrary.gcm.GcmBroadcastReceiver;
+import com.honkimi.bootroid.gcm.GcmBroadcastReceiver;
 
 /**
  * Created by honkimi on 14/11/28.

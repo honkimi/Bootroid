@@ -9,7 +9,7 @@
     android:orientation="vertical"
     tools:context="com.honkimi.sample.activity.ValidateActivity">
 
-    <com.honkimi.mylibrary.validate.ErrorMessagesText
+    <com.honkimi.bootroid.validate.ErrorMessagesText
         android:id="@+id/error"
         android:textColor="@android:color/holo_red_dark"
         android:layout_width="match_parent"

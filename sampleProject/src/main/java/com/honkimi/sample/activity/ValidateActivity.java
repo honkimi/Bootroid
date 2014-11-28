@@ -5,12 +5,12 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.Toast;
 
-import com.honkimi.mylibrary.validate.ErrorMessagesText;
-import com.honkimi.mylibrary.validate.MaxNumValidatable;
-import com.honkimi.mylibrary.validate.MinNumValidatable;
-import com.honkimi.mylibrary.validate.NumberValidatable;
-import com.honkimi.mylibrary.validate.ValidateManager;
-import com.honkimi.mylibrary.validate.Validators;
+import com.honkimi.bootroid.validate.ErrorMessagesText;
+import com.honkimi.bootroid.validate.MaxNumValidatable;
+import com.honkimi.bootroid.validate.MinNumValidatable;
+import com.honkimi.bootroid.validate.NumberValidatable;
+import com.honkimi.bootroid.validate.ValidateManager;
+import com.honkimi.bootroid.validate.Validators;
 import com.honkimi.sample.R;
 
 import java.util.List;

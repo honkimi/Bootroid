@@ -3,12 +3,12 @@ package com.honkimi.sample.activity;
 import android.os.Bundle;
 import android.widget.TextView;
 
-import com.honkimi.mylibrary.api.ApiCallbackBase;
-import com.honkimi.mylibrary.api.ApiException;
-import com.honkimi.mylibrary.api.ApiRequest;
-import com.honkimi.mylibrary.api.ApiResponseHandler;
-import com.honkimi.mylibrary.api.RestApi;
-import com.honkimi.mylibrary.utils.LogUtil;
+import com.honkimi.bootroid.api.ApiCallbackBase;
+import com.honkimi.bootroid.api.ApiException;
+import com.honkimi.bootroid.api.ApiRequest;
+import com.honkimi.bootroid.api.ApiResponseHandler;
+import com.honkimi.bootroid.api.RestApi;
+import com.honkimi.bootroid.utils.LogUtil;
 import com.honkimi.sample.R;
 
 import org.json.JSONException;

@@ -1,7 +1,7 @@
 package com.honkimi.sample;
 
-import com.honkimi.mylibrary.Conf;
-import com.honkimi.mylibrary.application.ApplicationController;
+import com.honkimi.bootroid.Conf;
+import com.honkimi.bootroid.application.ApplicationController;
 
 /**
  * Created by honkimi on 14/11/28.

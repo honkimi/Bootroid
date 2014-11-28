@@ -4,7 +4,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Toast;
 
-import com.honkimi.mylibrary.pref.ObjectStorage;
+import com.honkimi.bootroid.pref.ObjectStorage;
 import com.honkimi.sample.R;
 
 import java.util.ArrayList;

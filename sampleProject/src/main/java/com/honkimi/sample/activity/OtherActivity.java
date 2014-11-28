@@ -7,10 +7,10 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
 
-import com.honkimi.mylibrary.notification.NotificationCenter;
-import com.honkimi.mylibrary.utils.IntentUtil;
-import com.honkimi.mylibrary.utils.KeyBoardUtil;
-import com.honkimi.mylibrary.utils.NetworkUtil;
+import com.honkimi.bootroid.notification.NotificationCenter;
+import com.honkimi.bootroid.utils.IntentUtil;
+import com.honkimi.bootroid.utils.KeyBoardUtil;
+import com.honkimi.bootroid.utils.NetworkUtil;
 import com.honkimi.sample.R;
 
 /**

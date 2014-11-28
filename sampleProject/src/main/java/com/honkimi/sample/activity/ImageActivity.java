@@ -3,8 +3,8 @@ package com.honkimi.sample.activity;
 import android.os.Bundle;
 
 import com.android.volley.toolbox.NetworkImageView;
-import com.honkimi.mylibrary.application.ApplicationController;
-import com.honkimi.mylibrary.utils.IconUtil;
+import com.honkimi.bootroid.application.ApplicationController;
+import com.honkimi.bootroid.utils.IconUtil;
 import com.honkimi.sample.R;
 
 /**
