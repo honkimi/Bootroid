@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="date_parse_in">yyyy-MM-dd\'T\'HH:mm:ss.SSS\'Z\'</string>
+    <string name="time_format">%1$02d</string>
+
+    <string name="err_number">Number format required.</string>
+    <string name="err_num_max">Wrong number. Max: </string>
+    <string name="err_num_min">Wrong number. Min: </string>>
+    <string name="err_length_max">Wrong number length. Max: </string>
+    <string name="err_length_min">Wrong number length. Min:  </string>
+    <string name="err_presense">Input required.</string>
+</resources>

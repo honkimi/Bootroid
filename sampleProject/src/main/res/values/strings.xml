@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Bootroid</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_image">ImageActivity</string>
+    <string name="title_activity_api">ApiActivity</string>
+    <string name="title_activity_cache">CacheActivity</string>
+    <string name="title_activity_validate">ValidateActivity</string>
+    <string name="title_activity_gcm">GcmActivity</string>
+    <string name="title_activity_other">OtherActivity</string>
+
+    <string name="icon_github">&#xf092;</string>
+</resources>

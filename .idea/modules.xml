@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ForLibrary.iml" filepath="$PROJECT_DIR$/ForLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bootroid/bootroid.iml" filepath="$PROJECT_DIR$/bootroid/bootroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sampleProject/sampleProject.iml" filepath="$PROJECT_DIR$/sampleProject/sampleProject.iml" />
+    </modules>
+  </component>
+</project>
+
