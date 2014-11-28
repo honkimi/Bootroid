@@ -2,11 +2,23 @@
 Libraries for Android. It'll be useful if you plan to create an app using JSON API.
 
 # Run Example Project
+## In your Android SDK Manager
+Please install the followings:
+
+- Android SDK Build-tools 21.1.1
+- Android 5.0 SDK Platform
+- Android Support Repository
+- Android Support Library 21.0.2
+- Google Play services 21
+- Google Repository
+
+## In your Console
 ```
 git clone https://github.com/honkimi/Bootroid.git
 ```
 
-In AndroidStudio, Import Project -> select `settings.gradle`.
+## In your AndroidStudio
+`Open an existing Android Studio project` -> select `build.gradle`.
 
 Run the app!
 
